@@ -16,8 +16,7 @@
     --clr-neutral-800: hsl(220, 13%, 13%);
     --clr-neutral-1000: hsl(0, 0%, 0%);
 
-    /* --ff-base: "Kumbh Sans"; */
-    --ff-base: "Poppins";
+    --ff-base: "Kumbh Sans";
 
     --fs-100: clamp(0.7813rem, 0.7747rem + 0.0326cqi, 0.8rem);
     --fs-200: clamp(0.9375rem, 0.9374rem + 0.0004cqi, 0.9377rem);
